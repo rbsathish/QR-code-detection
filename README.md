@@ -15,7 +15,7 @@ Process:
     
 Output:
 
-![alt text](https://github.com/rbsathish/QR-code-detection/blob/main/images/qr-gif.png)
+![alt text](https://github.com/rbsathish/QR-code-detection/blob/main/images/qr-gif.gif)
 
 ![alt text](https://github.com/rbsathish/QR-code-detection/blob/main/images/Authorized.png)
 

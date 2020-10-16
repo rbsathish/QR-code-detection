@@ -1,6 +1,6 @@
 # QR-code-detection-and-verificaction
 ![alt text](https://github.com/rbsathish/QR-code-detection/blob/main/images/QR.png)
-Scanning the QR code and Detect it is present in Data are not using opencv python.
+Scanning the QR code and Detect( Decode the QR) to find if the decoded data is present in Data are not using OpenCV python.
 
 
 Process:

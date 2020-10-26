@@ -13,7 +13,7 @@ Process:
             4.1. If decoded data matched means Green color bbox appear .
             4.2. else Red color 
     
-Output:
+Outputs:
 
 ![alt text](https://github.com/rbsathish/QR-code-detection/blob/main/images/qr-gif.gif)
 
